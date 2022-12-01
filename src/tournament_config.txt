@@ -1,0 +1,2 @@
+Play on server:yes
+Play publicly:yes
